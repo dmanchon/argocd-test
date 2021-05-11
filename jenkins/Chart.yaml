@@ -5,6 +5,6 @@ name: jenkins-ci
 type: application
 version: 0.1.0
 dependencies:
-  - name: jenkinsci/jenkins
+  - name: jenkins
     version: 3.3.11
     repository: https://charts.jenkins.io
